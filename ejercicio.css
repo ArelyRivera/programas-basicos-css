@@ -1,0 +1,30 @@
+
+
+title{
+    color:blueviolet;
+    text-align: center;
+    
+}
+body{
+    background-image: url("cat.jpg");
+}
+p {
+    color: blueviolet;
+    text-align: center;
+  }
+.p-large{
+    font-size: 28px;
+}
+.p-green{
+    color: chocolate;
+    background-color: palevioletred;
+    font-size: 28px;
+}
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+h3{
+    color: purple;
+    text-align: center;
+}

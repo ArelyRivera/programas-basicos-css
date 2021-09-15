@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lange="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <link href="formulario.css" rel="stylesheet"type="text/css" />
+    <title>Formularios</title>
+</head>
+
+<body>
+    <h1>Encuesta de fascitis plantar</h1>
+    <form method="POST">
+        <p>
+            <label for="">¿Cual es tu nombre?: </label>
+            <input type="text" name="name" />
+
+        </p>
+        <p>
+            <label for="">Correo electrónico</label>
+            <input type="text" name="email" />
+
+        </p>
+        <p>
+            <label for="">Menciona alguna de las siguientes sintomatologias que presentes</label>
+            <br/>
+            <select name="color">
+                    <option value="1">Dolor en calcáneo o fascia plantar</option>
+                    <option value="2">Dolor en la planta del pie al caminar</option>
+                    <option value="3">No presento síntomas</option>
+            </select>
+
+        </p>
+        <p>
+            <label for="">Selecciona tu rango de edad</label>
+        <p>
+            <label for="">De 20 a 40</label>
+            <input type="radio" name="edad" id="">
+        </p>
+        <p>
+            <label for="">De 40 a 60</label>
+            <input type="radio" name="edad" id="">
+        </p>
+        <label for="">De 60 a 70</label>
+        <input type="radio" name="edad" id="">
+
+        </p>
+
+        <input type="submit" value="Guardar datos">
+    </form>

@@ -1,0 +1,29 @@
+/* body{
+    background-color: lightcoral;
+} */
+
+#title{
+    color: blue;
+    text-align: center;
+}
+/* p{
+    color: blueviolet;
+    background-color: cyan;
+} */
+.p-large{
+    font-size: 32px;
+}
+.p-green{
+    color: blue;
+    background-color: darkseagreen;
+    font-size: 32px;
+}
+.p-red{
+    color:red;
+    background-color: black;
+    font-size: 32px;
+}
+
+/* h1{
+    color: red;
+} */
