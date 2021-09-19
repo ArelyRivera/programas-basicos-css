@@ -1,0 +1,41 @@
+body{
+    background-image: url(cat.jpg);
+    background-position: left;
+}
+.title{
+    font-family: 'Anton', sans-serif; /* Pera seleccionar tipo de letra */
+    font-weight: 700; /* la letra se vera mas delgada en 200 que en 700 donde se vera mas gruesa*/
+    color: brown;
+    background-color: rgb(245, 230, 212);
+    text-align: center;
+}
+.font{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 100;
+    color: yellow;
+    background-color: rgb(223, 162, 162);
+    text-align: center;
+
+}
+.texto2{
+    background-color: rgb(150, 123, 175);
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 200;
+    color: pink
+    
+
+}
+.texto3{
+    background-color: rgb(248, 225, 195);
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-weight: 500;
+    color: blue
+}
+.texto4{
+    background-color: rgb(202, 237, 238);
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 300;
+}

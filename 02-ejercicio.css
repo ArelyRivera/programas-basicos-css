@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(182, 172, 172)
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: white;
+}
+img{
+    margin: auto;
+    float: left;
+    width: 90px;
+    size: 10px;
+}
+p.centrado{
+    text-align: center;
+}
+}
+.titulo{
+   color: rgb(101, 101, 165); 
+}
+.banquito{
+    background-color: white;
+}
+.texto1{
+    background-color: rgb(107, 97, 97);
+    font-family: 'Rajdhani', sans-serif;
+}
+.resaltar{
+    color: red;
+}
